@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: disturbed-gibbon-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-hub/disturbed-gibbon-dotnet-basic
